@@ -1,0 +1,477 @@
+*{
+	margin: 0;
+	padding:0;
+}
+#wrapper {
+	width: 1920px;
+	height: 5000px;
+/*	background: red;*/
+	margin:0 auto;
+}
+#thongbao {
+	width: 1920px;
+	height: 102.579px;
+	background: #FEDEBE;
+	margin: 0 auto;
+}
+#thongbao h1 {
+	text-align: center;
+	line-height: 102.579px;
+	color: #3C4354;
+}
+#header{
+	width:100%;
+	height:411.61px;
+background: #F15822;
+	float:left;
+}
+.khunglogo{
+	width:365.76px;
+	height: 266.56px;
+/*	background:#FEDEBE;*/
+	margin-top: 58px;
+	margin-left: 42.047px;
+	margin-right: 72.007px;
+	float:left;
+}
+.khunglogo h2  {
+	text-align: center;
+	margin-top:66px;
+	 font-family: 'Baloo Bhai';font-size: 60px;
+	color: white;
+  	text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+}
+.khunglogo h3 {
+	text-align: center;
+	font-family: 'Baloo Bhai';font-size: 30px;
+	color: white;
+		text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 2px 2px 0 #000;
+}
+.khungmenu {
+	width: 1398.14px;
+	height: 158.22px;
+	background: #FEDEBE;
+	margin-top: 140px ;
+	margin-right: 42.05px;
+	float:left;	
+	color: #3E4555;
+	font-size: 20pt;
+	text-align: center
+}
+.canhchu{
+	width: 162px;
+	height: 87.211px;
+/*	background: #BF6B6D;*/
+	float: left;
+	margin-left: 55px;
+	margin-right: 55px;
+	margin-top: 33.159px;
+	line-height: 83px
+}
+.canhchu button {
+	 border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 30px;
+	color: #21252D;
+  cursor: pointer;
+  display: inline-block;
+
+}
+.canhchu button:hover {
+	background: #F8B0B6;
+	opacity: 0.2%;
+	transition-duration: 0.2s;
+}
+#content{
+	width: 1920px;
+	height: 4025.39px;
+	background:#FEDEBE;
+	float:left;
+}
+.bg {
+	width: 1920px;
+	height: 3966px;
+	background:url(../kisspng-carrot-vegetable-red-carrot-background-5a86c2d267cfe3.9059400715187811384252.png);
+/*	opacity: 55%;*/
+}
+#khungbanner {
+	width:1920px;
+	height:818.854px;
+/*	background: yellow;*/
+	margin-top: 27.39px;
+	float:left;
+}
+.khungtrochoi {
+	width: 693.667px;
+	height: 818.854px;
+	background: #FBAE45;
+	float:left;
+}
+
+.khungtrongkhungtrochoi {
+	width: 628px;
+	height: 737.18px;
+/*	background:white;*/
+	background: url(../Untitled-2.jpg);
+	margin-top:45.058px;
+	margin-left: 32.135px;
+	float:left;
+}
+.khungbutton {
+	width: 385.162px;
+	height:108px;
+/*	background:#F8B0B6;*/
+	margin:0 auto;
+	margin-top: 585.054px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.khungbutton button {
+	 border: none;
+background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  padding: 14px 28px;
+  font-size: 60px;
+font-family: baloo Bhai;
+	color: white;
+  cursor: pointer;
+  display: inline-block;
+}
+.khungbutton button:hover {
+	 box-shadow: inset 0 0 30px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+	transition-duration: 0.2s;
+}
+.khungvideo {
+	width: 1205.667px;
+	height: 818.854px;
+	background: #FBAE45;
+	float:right;
+}
+.khungtrongkhungvideo {
+	width:1139.911px;
+	height: 723.71px;
+	background: white;
+	margin-top:45.058px;
+	margin-left: 32.878px;
+}
+/*
+#khungchar {
+	width: 1854.987px;
+	height:570.057px;
+	background: #EFE9BB;
+	float:left;
+	margin-top: 35.219px;
+	margin-left: 32.878px;
+*/
+.khungbutton{
+	width:434.642px;
+	height:434.642px;
+}
+#khungchar {
+	width: 1854.987px;
+	height: 570.057px;
+/*	background:blue;*/
+	margin:0 auto;
+	margin-top: 58.65px;
+	margin-left: 32.135px;
+}
+.khungtrontron {
+	width: 1621.426px;
+	height:434.642px;
+	background: #EFE9BB;
+	margin: 0 auto;
+	float: left;
+	margin-left: 115.09px;
+	margin-top: 58.65px;
+}
+.khungtron {
+	width:434.642px;
+	height:434.642px;
+/*	background: navy;*/
+	float: left;
+}
+.tron1 {
+    border-radius: 50%;
+    width: 434.642px;
+    height: 434.642px;
+	background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+	float:left;
+}
+.tron1 img {
+/*	border-radius: 50%;*/
+/*    width: 434.642px;*/
+    height: 434.642px;
+}
+.tron1 img:hover {
+	width: 35%;
+	transform:matrix3d(1);
+	border:1px solid white;
+}
+.tron2 {
+	 border-radius: 50%;
+    width: 434.642px;
+    height: 434.642px;
+	background: linear-gradient(to right, orange , yellow, green, cyan, violet);
+	float:left;
+}
+.tron2 img {
+/*	border-radius: 70%;*/
+    width: 434.642px;
+    height: 434.642px;
+	margin-right: 40px;
+}
+.tron2 img:hover {
+	width: 35%;
+	transform:matrix3d(2);
+	border:1px solid white;
+}
+.tron3 {
+	background: linear-gradient(to right, pink , yellow, #F8B0B6, cyan, #B7B0F7, violet);
+    border-radius: 50%;
+    width: 434.642px;
+    height: 434.642px;
+}
+.tron3 img{
+	   border-radius: 50%;
+    width: 434.642px;
+    height: 434.642px;
+}
+.tron3 img:hover {
+	width: 35%;
+	transform:matrix3d(1);
+	border:1px solid white;
+}
+#shopping {
+	width: 1835.907px;
+	height: 2423.515px;
+	background: #F4C991;
+	margin: 0 auto;
+	float:left;
+	margin-top:76.344px;
+	margin-left: 43.636px;
+}
+.A1 {
+	width:1675.907px;
+	height: 523.318px;
+/*	background: white;*/
+	margin-left:78.549px;
+	float:left;
+}
+/*
+.lich {
+	background: black;
+	width:250.412px ;
+	height:250.412px;
+	margin-left: 397.045px;
+	margin-top: 272.906px;
+}
+*/
+/*
+.lich img {
+	width:250.412px ;
+	height:250.412px;
+}
+*/
+.pic1 img {
+width: 647.457px;
+height: 523.318px;
+float: left;
+margin-top:86.72px;
+/*	background: blue;*/
+}
+.nd1 {
+	width: 871.32px;
+	height: 523.318px;
+	background: #FDF6AA;
+	margin-right: 80px;
+	margin-left: 804.587px;
+	margin-top:86.72px;
+	
+}
+.nd1 p {
+	font-size: 25pt;
+	color: grey;
+}
+.nd1 h1 {
+	font-size: 30pt;
+}
+.nd1 h2 {
+	font-size: 30pt;
+}
+.A2 {
+	width:1675.907px;
+	height: 523.318px;
+/*	background: white;*/
+	margin-left:78.549px;
+	float:left;
+	margin-top: 64.08px;
+}
+.pic2 img {
+	width: 647.457px;
+	height: 523.318px;
+	float: left;
+	margin-top:86.72px;
+}
+.nd2 {
+	width: 871.322px;
+	height: 523.318px;
+	background: #FDF6AA;
+	margin-left: 804.587px;
+	margin-top:86.72px;
+}
+.nd2 h1  {
+	font-size: 30pt;
+}
+.nd2 p {
+	font-size: 25pt;
+	color: grey;
+}
+.nd2 h2 {
+	font-size: 30pt;
+}
+.A3 {
+	width:1675.907px;
+	height: 523.318px;
+/*	background: white;*/
+/*	margin-left:78.549px;*/
+	float:left;
+	margin-top: 64.08px;
+}
+.pic3 img {
+	width: 647.457px;
+	height: 523.318px;
+	float: left;
+	margin-top:86.72px;
+}
+.nd3 {
+	width: 871.322px;
+	height: 523.318px;
+	background: #FDF6AA;
+	margin-left: 804.587px;
+	margin-top:86.72px;
+}	
+.nd3 h1  {
+	font-size: 30pt;
+}
+.nd3 p {
+	font-size: 25pt;
+	color: grey;
+}
+.nd3 h2 {
+	font-size: 30pt;}	
+.A4 {
+	width:1675.907px;
+	height: 523.318px;
+/*	background: white;*/
+/*	margin-left:78.549px;*/
+	float:left;
+	margin-top: 64.08px;
+}
+.pic4 img {
+	width: 647.457px;
+	height: 523.318px;
+	float: left;
+	margin-top:86.72px;
+}
+.nd4 {
+	width: 871.322px;
+	height: 523.318px;
+	background: #FDF6AA;
+	margin-left: 804.587px;
+	margin-top:86.72px;
+}	
+.nd4 h1  {
+	font-size: 30pt;
+}
+.nd4 p {
+	font-size: 25pt;
+	color: grey;
+}
+.nd4 h2 {
+	font-size: 30pt;}	
+.footer {
+	width:100%;
+	height:563px;
+	background: #F58320;
+}
+.warp {
+	width:1734.862px;
+	height: 494.784px;
+/*	background:white;*/
+	float:bottom;
+	margin: 0 auto;
+}
+.loo {
+	width:365.76px;
+	height: 146.749px;
+/*	background: white;*/
+	margin: 0 auto;
+	float:left;
+	margin-left:676.935px;
+	margin-top: 16.28px;
+}
+.loo h1 {
+	font-size: 60px;
+	text-align: center;
+	line-height: 146.794px;
+}
+.khung {
+	width:1734.862px;
+	height: 289.57px;
+	background: #FEDEBE;
+	float:left;
+}
+.khung1{
+	width: 1013.217px;
+	height: 243.024px;
+	background: white;
+	float:left;
+	margin-left:29.478px;
+	margin-top: 23.006px;
+}
+.khung2 {
+	width:580.908px;
+	height: 243.024px;
+	background: white;
+	float:right;
+	margin-top: 23.006px;
+	margin-right:29.478px;
+}
+.textkhung{
+	width: 103.854px;
+	height: 208.534px;
+/*	background:yellow;*/
+	float:left;
+	margin-left:75px;
+	margin-top: 15.669px;
+	margin-right:70px;
+}
+.textkhung h1{
+	font-size: 20px;
+	text-align: center;
+}
+.khungtextt{
+	width:208.534px;
+	height:103.854px;
+/*	background: yellow;*/
+	float:left;
+	margin-left: 199.483px;
+	margin-top:16.099px;
+}
+.khungtextt h1{
+	text-align: center;
+	line-height: 103.854px;
+}
+.khungxong {
+	width:82%;
+	height:103.854px;
+/*	background: yellow;*/
+	margin-top: 130px;
+	margin-left: 50px;
+	
+	
+}
+
+
+	/* CSS Document */
+
